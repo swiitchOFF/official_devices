@@ -1,1 +1,2 @@
-- Source changelog (https://t.me/ProjectInfinityX/1797)
+- Source changelog (https://t.me/ProjectInfinityX/1799)
+- Fix touch profiles toggle enabling
